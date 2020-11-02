@@ -1,8 +1,8 @@
-Ext.define("SL.new.Main", {
+Ext.define("SL.view.Main", {
     extend: 'Ext.tab.Panel',
     layout: 'fit',
     viewModel: {
-        xclass: 'SL.new.MainViewModel'
+        xclass: 'SL.view.MainViewModel'
     },
     items: [{
         xtype: 'panel',
