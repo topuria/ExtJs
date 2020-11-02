@@ -125,7 +125,8 @@ Ext.define("SL.view.Main", {
             flex: 1,
             items: [{
                 xtype: 'button',
-                text: 'Press this Button too'
+                text: 'Press this Button too',
+                handler:'Hello'
             }]
         }]
 
