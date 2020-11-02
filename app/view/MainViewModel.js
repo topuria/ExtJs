@@ -1,4 +1,4 @@
-Ext.define('SL.new.MainViewModel',{
+Ext.define('SL.view.MainViewModel',{
     extend:'Ext.app.ViewModel',
     navItems:{
         type:'tree',
