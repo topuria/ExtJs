@@ -1,8 +1,8 @@
 Ext.application({
     name: 'SL',
-    appFolder: 'app2',
+    appFolder: 'app',
     requires: [
-        'SL.new.Main'
+        'SL.view.Main'
     ],
-    mainView: 'SL.new.Main'
+    mainView: 'SL.view.Main'
 });
