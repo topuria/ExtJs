@@ -1,4 +1,4 @@
-Ext.define("SL.new.ViewController",{
+Ext.define("SL.view.ViewController",{
     extend:"Ext.app.ViewController",
 
     Hello:function () {
